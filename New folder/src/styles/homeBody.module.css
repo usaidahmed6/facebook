@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    margin-top: 2px;
+    background-color: #f0f2f5;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

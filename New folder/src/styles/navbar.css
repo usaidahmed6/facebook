@@ -1,0 +1,67 @@
+/* header box shadow */
+.css-v526sl-MuiPaper-root-MuiAppBar-root {
+    box-shadow: 0px 2px 2px 0px rgb(255 255 255 / 20%), 0px 4px 5px 0px rgb(249 249 249 / 0%), 0px 1px 10px 0px rgb(221 221 221) !important;
+    background-color: #fff !important;
+}
+
+/* header.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation4.MuiAppBar-root.MuiAppBar-colorTransparent.MuiAppBar-positionStatic.css-v526sl-MuiPaper-root-MuiAppBar-root {
+    position: fixed !important;
+} */
+
+.logo {
+    height: 2.6rem;
+}
+
+/* search box handle */
+
+.searchBox {
+    border-radius: 100px !important;
+    background-color: #f0f2f5 !important;
+    height: 4.8ch;
+    padding: 3px 12px;
+}
+
+.css-1kcggdq-MuiInputBase-root .MuiInputBase-input {
+    padding-left: calc(1em + 0px) !important;
+}
+
+.searchBox.css-96uuyl {
+    margin-left: 0px !important;
+    width: 24rem;
+    margin: 0px;
+
+}
+
+button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorInherit.MuiIconButton-edgeStart.MuiIconButton-sizeLarge.css-ancrnh-MuiButtonBase-root-MuiIconButton-root {
+    margin-right: 0px !important;
+}
+
+.MuiInputBase-root.MuiInputBase-colorPrimary.css-1kcggdq-MuiInputBase-root {
+    width: 75% !important;
+}
+
+/* navigation icon center or icons */
+
+.centerIcons {
+    justify-content: space-evenly;
+    text-align: center;
+    display: flex;
+    width: 100%;
+}
+
+.css-heg063-MuiTabs-flexContainer {
+    justify-content: center !important;
+}
+
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {
+    font-size: 30px;
+}
+
+.MuiTabs-root.centerIcons.css-1ujnqem-MuiTabs-root {
+    width: 80%;
+}
+
+span.MuiTabs-indicator.css-1aquho2-MuiTabs-indicator {
+    left: 165.391px;
+    height: 3px;
+}

@@ -1,0 +1,200 @@
+.AuthContainer {
+    background: #f0f2f5;
+    justify-content: space-around;
+    display: flex;
+    padding: 14%;
+    flex-wrap: wrap;
+}
+
+.bgcolor {
+    background-color: red;
+    border: 2px solid black;
+    height: 200px;
+    width: 400px;
+}
+
+.facebookHeading {
+    color: #1877f2;
+    font-size: 50px;
+    display: inline;
+    font-weight: bold;
+}
+
+.leftDiv {
+    width: 25rem;
+
+}
+
+.dis-handle {
+    display: none;
+}
+
+.rightDiv {
+    display: block;
+    margin-top: -101px;
+    width: 25rem !important;
+
+}
+
+.loginForm {
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 1px 2px 7px 2px #cfcfcf;
+    padding: 18px 5px;
+    width: 100% !important;
+    text-align: center;
+
+}
+
+.facebookContent {
+    font-size: 30px;
+    line-height: 100%;
+    font-weight: 480;
+}
+
+.login-form-field {
+    width: 95%;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.SignUp-container {
+    width: 30% !important;
+}
+
+.btn-submit-login {
+    background-color: #1877f2 !important;
+    font-weight: 500;
+    font-size: 24px;
+    height: 50px;
+    padding: 0px;
+
+}
+
+.btn-submit-login:hover {
+    background-color: #1877f2;
+    font-weight: 500;
+
+}
+
+.ant-form-item {
+    margin-bottom: 5px !important;
+}
+
+.bottom-border {
+    border-bottom: 1px solid #dfdada;
+    width: 90%;
+    margin-left: 4.9%;
+}
+
+.btn-signup {
+    font-size: 17px;
+    margin-top: 24px;
+    font-weight: 750;
+    border-radius: 5px;
+    padding-bottom: 35px;
+    padding-top: 11px;
+    color: white !important;
+    background-color: #42b72a !important;
+    border: 2px solid #42b72a !important;
+}
+
+.btn-signup:hover:where(.css-dev-only-do-not-override-190m0jy).ant-btn-primary:not(:disabled):not(.ant-btn-disabled):hover {
+    background-color: #33a11d !important;
+    color: #fff;
+}
+
+.para {
+    font-size: 16px;
+}
+
+.signup-heading {
+    font-size: 30px;
+    font-weight: 650;
+}
+
+.signup-para {
+    margin-top: 14px;
+    line-height: 0;
+    font-size: 16px;
+}
+
+.signup-div {
+    border-bottom: 1px solid #e1e1e1;
+}
+
+/* .signUpForm{
+    display: inline !important;
+} */
+.signUpFormItems {
+    display: inline-block !important;
+    margin-top: 20px;
+    width: 49%;
+    /* margin-left: 2px;
+    margin-right: 1px; */
+}
+
+.ant-modal-mask {
+    background-color: rgb(255 255 255 / 85%) !important;
+}
+
+.ant-modal-close {
+    color: black;
+    font-weight: bold;
+}
+
+.ant-modal-footer>.ant-btn-default {
+    display: none;
+}
+
+.ant-modal-footer>.ant-btn-primary {
+    width: 40%;
+    border-radius: 5px;
+    height: 35px;
+    font-size: 17px;
+    display: block;
+    font-weight: 750;
+    margin: auto !important;
+    text-align: center !important;
+    border-color: #00a400;
+    background-color: #00a400 !important;
+}
+
+.radio-gender {
+    width: 100%;
+    text-align: center;
+
+}
+
+.paraGender {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    line-height: 0.1;
+}
+
+.paraDateofBirth {
+    margin-top: 18px;
+    line-height: 1.1;
+}
+
+.btn-radio {
+    border: 1px solid #d9d9d9;
+    width: 31%;
+    font-size: 16px !important;
+    height: 40px !important;
+    text-align: center;
+    border-radius: 4px;
+    align-items: center;
+    padding: 20px;
+}
+
+.PeopleService {
+    line-height: 1.3;
+    margin-top: 10px;
+}
+
+.ant-modal.css-dev-only-do-not-override-190m0jy.SignUp-container {
+    width: 520px !important;
+    transform-origin: 414.844px 279px;
+}

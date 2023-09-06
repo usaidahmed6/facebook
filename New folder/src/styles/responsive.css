@@ -1,0 +1,52 @@
+@media only screen and (max-width: 1112px) {
+    .leftDiv {
+        display: none !important;
+    }
+
+    .dis-handle {
+        display: block !important;
+    }
+
+    .rightDiv {
+        margin-top: 0px !important;
+        height: auto !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 480px) {
+    .ant-select.ant-select-lg.css-dev-only-do-not-override-190m0jy.ant-select-single.ant-select-show-arrow {
+        width: 40% !important;
+        margin: 10px 5px !important;
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+    .ant-select.ant-select-lg.css-dev-only-do-not-override-190m0jy.ant-select-single.ant-select-show-arrow {
+        width: 100% !important;
+        margin: 10px px !important;
+    }
+
+    label.ant-radio-wrapper.btn-radio.mx-2.css-dev-only-do-not-override-190m0jy {
+        width: 100% !important;
+        margin: 10px 0px !important;
+    }
+}
+
+/* header */
+@media only screen and (max-width: 600px) {
+    .css-96uuyl {
+        margin-left: 0px !important;
+        width: auto;
+    }
+}
+
+
+/* toggle button*/
+@media only screen and (max-width: 900px) {
+    .MuiTabs-root.centerIcons.css-1ujnqem-MuiTabs-root {
+        width: 100% !important;
+    }
+}

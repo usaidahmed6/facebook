@@ -1,0 +1,11 @@
+.leftBarContainer{
+    /* background-color: blue; */
+    width: 21rem;
+    height: 100vh;
+    margin: 0px 10px;
+}
+
+.leftBarContainer:hover{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
